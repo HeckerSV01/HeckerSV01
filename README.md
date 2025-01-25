@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumedh Verma (@HeckerSV01)
-- 👀 I’m interested in web development, app development, AI-ML.
+- 👀 I’m interested in web development, app development, artificial intelligence and machine learning.
 - 🎯 I've have learnt Java, C, C++.
 - 🌱 I’m currently working on skilling up by grinding Data structures and algorithms.
 - 💞️ I’m looking to collaborate on various modern projects.
